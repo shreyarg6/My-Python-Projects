@@ -6,6 +6,7 @@
 - Password Generator
 - Rock Paper Scissor Game
 - Tip Calculator
+- Blind Auction App
 
 Mini Projects
 - Mini-Love Calculator
