@@ -6,3 +6,6 @@
 - Password Generator
 - Rock Paper Scissor Game
 - Tip Calculator
+
+Mini Projects
+- Mini-Love Calculator
