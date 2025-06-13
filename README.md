@@ -1,5 +1,6 @@
 # Here is a list of projects I am working on!
 - Basic Operations Calculator
+- Blackjack
 - Blind Auction App
 - Ceaser Cipher
 - Hangman Game
