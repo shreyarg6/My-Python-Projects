@@ -1,4 +1,7 @@
 # Here is a list of projects I am working on!
+- Basic Operations Calculator
+- Blackjack
+- Blind Auction App
 - Ceaser Cipher
 - Hangman Game
 - Mini Duloc Game (Find the Treasure!)
@@ -6,7 +9,6 @@
 - Password Generator
 - Rock Paper Scissor Game
 - Tip Calculator
-- Blind Auction App
 
 Mini Projects
 - Mini-Love Calculator
