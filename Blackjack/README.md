@@ -1,0 +1,2 @@
+# Blackjack
+# This is a simple command-line Blackjack game built in Python. The player competes against the dealer with the goal of getting as close to 21 as possible without going over. It follows standard Blackjack rules!
