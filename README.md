@@ -6,6 +6,7 @@
 - Hangman Game
 - Mini Duloc Game (Find the Treasure!)
 - Name Generator
+- Number Guessing Game
 - Password Generator
 - Rock Paper Scissor Game
 - Tip Calculator
