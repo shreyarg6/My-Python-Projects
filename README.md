@@ -1,4 +1,4 @@
-# Here is a list of projects I am working on!
+# Here is a list of projects I am working on/completed!
 - Basic Operations Calculator
 - Blackjack
 - Blind Auction App
