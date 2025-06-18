@@ -4,6 +4,7 @@
 - Blind Auction App
 - Ceaser Cipher
 - Hangman Game
+- Higher or Lower Game
 - Mini Duloc Game (Find the Treasure!)
 - Name Generator
 - Number Guessing Game

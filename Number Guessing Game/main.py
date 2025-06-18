@@ -1,5 +1,6 @@
 from random import randint
 from art import logo
+
 EASY_LEVEL_TURNS = 10
 HARD_LEVEL_TURNS = 5
 
@@ -31,7 +32,7 @@ def game():
     print("This is the Number Guessing Game!")
     print("Guess the Number I'm thinking of from 1 - 100!")
     answer = randint(1, 100)
-    # print(f"The correct answer is {answer}. Maybe next time!")
+    print(f"The correct answer is {answer}. Maybe next time!")
 
 
     turns = set_difficulty()
